@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexa Vega</h1>
 <h3 align="center">I'm sophomore Computer Science student at SF State, interested in cybersecurity</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Networking and Distributed Systems:**
 
 - 📫 How to reach me **vgaalexa@gmail.com**
 
